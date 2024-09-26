@@ -1,0 +1,9 @@
+n=input()
+
+c=0
+
+i=0
+
+l=len(n)
+
+while i
